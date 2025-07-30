@@ -44,6 +44,18 @@ During the virtual experience, I worked on the following key tasks:
 
 ---
 
+This repository contains two separate solutions:
+
+## 🔹 main Branch — Official Solution (Company Provided)
+This branch contains the official solution provided by JPMorgan Chase through Forage. 
+
+## 🔹 full-solution Branch — My Personal Full Implementation
+This branch contains my full implementation of the tasks, including complete development, configurations, and enhancements.
+
+### 🔀 Switch between branches to explore both:
+- [main (official)](https://github.com/myarnwas/JPMorgan-Chase-Virtual-Experience-Software-Engineering/tree/main)
+- [full-solution (my work)](https://github.com/myarnwas/JPMorgan-Chase-Virtual-Experience-Software-Engineering/tree/full-solution)
+
 ## 📄 Certificate of Completion
 
 You can view the official certificate of completion here:  
